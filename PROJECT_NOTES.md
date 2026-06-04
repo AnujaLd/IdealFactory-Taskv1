@@ -287,7 +287,7 @@ Desktop: > 1024px (lg: and xl: prefixes)
 
 ## Contact Information
 
-**GitHub Repository:** [Repository Link]  
+**GitHub Repository:** https://github.com/AnujaLd/IdealFactory-Taskv1  
 **Live Demo:** [Vercel Deployment Link]  
 **Email:** isanujadewnim@gmail.com
 
